@@ -50,3 +50,4 @@ void talk(char* what) {
 	delete sam;
 }
 
+
